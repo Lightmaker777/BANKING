@@ -1,0 +1,37 @@
+{
+    "clients": [
+        {
+            "id": 1,
+            "name": "Gabriel",
+            "dob": "2013-05-20",
+            "balance": 120000.0
+        },
+        {
+            "id": 2,
+            "name": "Igor",
+            "dob": "1980-04-01",
+            "balance": 9000.0
+        },
+        {
+            "id": 3,
+            "name": "Nizar",
+            "dob": "1996-06-27",
+            "balance": 49999991989878.0,
+            "VIP": true
+        },
+        {
+            "id": 4,
+            "name": "Jane",
+            "dob": "1982-08-23",
+            "balance": 782345.0,
+            "VIP": true
+        },
+        {
+            "id": 5,
+            "name": "Sergio",
+            "dob": "1982-11-20",
+            "balance": 7781777.0,
+            "VIP": true
+        }
+    ]
+}
